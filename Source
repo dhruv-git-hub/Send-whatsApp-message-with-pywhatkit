@@ -1,0 +1,2 @@
+import pywhatkit as pwt
+pwt.sendwhatmsg("+91*******41355","null",21,33,20)
